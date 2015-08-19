@@ -10,9 +10,9 @@ gem 'coffee-rails', '~> 4.1.0'
 gem 'jquery-rails', '~> 4.0.4'
 gem 'turbolinks', '~> 2.5.3'
 gem 'jbuilder', '~> 2.3.1'
-gem 'sdoc', '~> 0.4.0', group: :doc
-gem 'bcrypt', '~> 3.1.10'
-gem "slim-rails"
+gem 'slim-rails'
+gem 'devise'
+gem 'uikit-sass-rails'
 
 group :development do
   gem 'pry'
