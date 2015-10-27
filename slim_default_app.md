@@ -1,4 +1,5 @@
 # Slim application.html
+```ruby 
 
 doctype html
 html
